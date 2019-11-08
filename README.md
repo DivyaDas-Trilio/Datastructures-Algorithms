@@ -8,17 +8,21 @@ DataStructures:-
 ====================
 1. Stack
 
-2. Queue
+2. Strings
 
-3. Linked List
+3. Queue
 
-4. Tree
+4. Set
 
-5. Map
+5. Linked List
 
-6. Graphs
+6. Tree
 
-7. HashTable
+7. Map
+
+8. Graphs
+
+9. HashTable
 
 
 Algorithms:-
