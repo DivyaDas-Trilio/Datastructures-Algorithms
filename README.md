@@ -55,3 +55,9 @@ Algorithms Design Paradigm:-
 
 4. Greedy Approach
 
+5. Backtracking
+
+6. Branch and Bound
+
+7. Transform and conquor(Reduction)
+
